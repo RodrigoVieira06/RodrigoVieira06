@@ -7,7 +7,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigovl12/)
 
 ### Meus commits do meu perfil pessoal
-![Rodrigo Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoVieira06&show_icons=true&theme=dracula&count-private=true)
+![RodrigoVieira06's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoVieira06&show_icons=true&theme=dracula&count-private=true)
 
 ### Tecnologias que utilizo
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
