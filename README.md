@@ -2,15 +2,14 @@
 
 <p>Me chamo Rodrigo Vieira Lima, sou um programador frontend (Web e Mobile), tenho experiência profissional de 2 anos no mercado de trabalho (em sistemas de ERP) e sou formado em Análise e Desenvolvimento de Sistemas.</p>
 
-### Conheça meu trabalho:
+### Conheça meu trabalho
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/null.svg)](null)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigovl12/)
 
 ### Meus commits do meu perfil pessoal
 ![Rodrigo Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoVieira06&show_icons=true&theme=dracula)
 
-### Tecnologias que utilizo:
-
+### Tecnologias que utilizo
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
