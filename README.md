@@ -3,7 +3,7 @@
 <p>Me chamo Rodrigo Vieira Lima, sou um programador frontend (Web e Mobile), tenho experiência profissional de 2 anos no mercado de trabalho (em sistemas de ERP) e sou formado em Análise e Desenvolvimento de Sistemas.</p>
 
 ### Conheça meu trabalho
-[![Portfolio](https://img.shields.io/website-up-down-green-red/http/null.svg)](https://rodrigovieira.vercel.app/)
+[![Portfolio](https://img.shields.io/website-up-down-green-red/http/rodrigovieira.vercel.app.svg)](https://rodrigovieira.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigovl12/)
 
 ### Tecnologias que utilizo
