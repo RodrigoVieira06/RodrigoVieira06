@@ -1,8 +1,16 @@
 ## Seja bem-vindo ao meu Github! 🎉
 
-<p>Me chamo Rodrigo Vieira Lima, sou um programador frontend (Web e Mobile), tenho experiência profissional de 2 anos no mercado de trabalho (em sistemas de ERP) e sou formado em Análise e Desenvolvimento de Sistemas.</p>
+<p>Olá! Meu nome é Rodrigo Vieira Lima e bem-vindo ao meu Linkedin! </p>
+<br>
+<p>Trabalho na área de TI desde 2019, onde atuei como desenvolvedor frontend por volta de 3 anos em uma empresa do ramo de ERP, onde me especializei em AngularJS, Typescript e um pouco de Flutter.<p>
+<br>
+<p>Trabalhei também como Freelancer, desenvolvendo o frontend de um sistema de um laboratório da UFRJ, onde aprimorei minhas habilidades em React e NextJS. Dentro da minha jornada de freelancer, também desenvolvi aplicativos utilizando Angular14+.<p>
+<br>
+<p>Sou um profissional cominucativo, organizado, proativo, e sempre busco aprencer e ajudar meus colegas de equipe, entendendo ao máximo as regras de negócio dos sistemas em que trabalhamos, visando uma melhor entrega.</p>
+<br>
+<p>Por fim, sou graduado em Análise e Desenvolvimento de Sistemas na FAETERJ-RIO desde 2022, onde realizei um projeto de conclusão de curso sobre o desenvolvimento de um aplicativo android utilizando Flutter e Firebase.</p>
 
-### Conheça meu trabalho
+### Conheça mais sobre meu trabalho
 [![Portfolio](https://img.shields.io/website-up-down-green-red/http/rodrigovieira.vercel.app.svg)](https://rodrigovieira.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigovl12/)
 
